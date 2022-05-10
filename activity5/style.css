@@ -5,6 +5,18 @@
 	background-color: #FFFFFF;
 	font-family: 'Roboto';
 }
+.navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+}
+.mt-lg-0 {
+    margin-top: 0!important;
+}
+.navbar-nav {
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
 hr.solid {
 	border-top: 1px solid #FFFFFF;
 }
