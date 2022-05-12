@@ -30,14 +30,14 @@ body
       {
         margin: 10px;
         position: absolute;
-        padding: 16px;
+        padding: 20px;
       }
       .jajja_img
       {
         margin: 70px 0px 0px 50px;
         font-size: 200px;
         float: right;
-        border-radius: 8px;
+        border-radius: 10px;
       }
       .shapecircle
       {
