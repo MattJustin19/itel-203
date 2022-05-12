@@ -5,8 +5,8 @@ body
       .nav-link
       {
         position: relative;
-        font-weight: 500;
-        font-size: 20px;
+        font-weight: 300;
+        font-size: 30px;
         line-height: 28px;
 
         color: #0B1118;
@@ -19,18 +19,18 @@ body
       }
       .nav-link1
       {
-        font-size: 20px;
+        font-size: 30px;
         margin: 3px 0px 0px 30px;
         border-radius: 40px;
         padding: 15px 30px 15px 30px;
-        background-color: black;
-        color: white;
+        background-color: white;
+        color: black;
       }
       .logo
       {
-        margin: 5px;
+        margin: 10px;
         position: absolute;
-        padding: 8px;
+        padding: 16px;
       }
       .jajja_img
       {
