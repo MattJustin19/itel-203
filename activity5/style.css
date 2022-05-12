@@ -1,183 +1,261 @@
-<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+body 
+      {
+        font-family: 'Roboto';
+      }
+      .nav-link
+      {
+        position: relative;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 28px;
 
-/*OTHER EDITING*/
-*{
-	background-color: #FFFFFF;
-	font-family: 'Roboto';
-}
-.navbar-expand-lg .navbar-nav {
-    flex-direction: row;
-}
-.mt-lg-0 {
-    margin-top: 0!important;
-}
-.navbar-nav {
-    display: flex;
-    padding-left: 0;
-    margin-bottom: 0;
-    list-style: none;
-}
-hr.solid {
-	border-top: 1px solid #FFFFFF;
-}
-h2{
-	font-weight: 400;
-	font-size: 80px;
-	line height: 60px;
-	letter-spacing: 2px;
-}
-h4{
-	font-weight: 400;
-	font-size: 38px;
-	line height: 38px;
-	letter-spacing: -.08px;
-}
-h3{
-	font-size: 200px;
-    line-height: 50px;
-    font-weight: 500;
-}
-.Font1{
-	font-size: 20px;
-}
-.Font2{
-	font-size: 25px;
-}
-.Font3{
-	font-size: 20px;
-}
-.Font4{
-	font-size: 26px;
-}
-li{
-	display: block;
-}
-li a{
-    display: inline-block;
-    padding-right: 25px;
-    color: #000000;
-    font-weight: 600;
-    font-size: 25px;
-    line-height: 30px;
-    text-decoration: none;
-}
-li a:hover{
-    color: #006AFF;
-}
-button{
-	padding: 0px 35px;
-    color: #FFFFFF;
-    border: none;
-    border-radius: 60px;
-    cursor: pointer;
-}
-button:hover{
-	color: #00D5FF;
-}
+        color: #0B1118;
 
-.Header_part .TitleButton{
-    background-color: #000000;
-}
-.Header_part .ArticleButton{
-    background-color: #FC0E52;
-}
-.Header_part img{
-	height: auto;
-	width: 80%;
-}
-.Header_part .spacing{
-	margin-top: 70px;
-}
-.Header_part p{
-	margin-top: 100px;
-}
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        margin: 10px 25px;
+        padding: 20px 0px 0px 30px;
+      }
+      .nav-link1
+      {
+        font-size: 20px;
+        margin: 3px 0px 0px 30px;
+        border-radius: 40px;
+        padding: 15px 30px 15px 30px;
+        background-color: black;
+        color: white;
+      }
+      .logo
+      {
+        margin: 5px;
+        position: absolute;
+        padding: 8px;
+      }
+      .jajja_img
+      {
+        margin: 70px 0px 0px 50px;
+        font-size: 200px;
+        float: right;
+        border-radius: 8px;
+      }
+      .shapecircle
+      {
+        position: absolute;
+        margin: 0 0 0 38px;
+        width: 1036px;
+        height: 1036px;
+        left: 827px;
+        top: -116px;
+        opacity: 1;
+        z-index: -20;
+      }
+      .cloud
+      {
+        margin: auto;
+        position: absolute;
+        padding-top: 16px;
+        right: 610px;
+        opacity: 1;
+        z-index: -20;
+      }
+      .Halla_dar
+      {
+        position: static;
+        font-size: 18px;
+      }
+      .Vi_driver
+      {
+        position: absolute;
+        font-weight: bold;
+        font-size: 72px;
+        letter-spacing: -1px;
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+      }
+      .container-intro
+      {
+        margin: 300px 0px 0px 10px;
+      }
+      .peach
+      {
+        background: rgba(244, 234, 228, 0.4);
+        position: absolute;
+        width: 1500px;
+        height: 788px;
+        left: 0px;
+        top: 976px;
+      }
+      .second-part
+      {
+        margin-top: 80px;
+      }
+      .Med-hjalp
+      {
+        position: absolute;
+        font-weight: bold;
+        font-size: 72px;
+        letter-spacing: -1px;
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+      }
+      .card
+      {
+        margin: 200px 0 0 0;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 48px;
+        position: static;
+        width: 394.67px;
+        height: 496px;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.08);
+        border-radius: 8px;
+      }
+      .card-title
+      {
+        position: static;
+        font-size: 48px;
+        font-weight: bold;
+      }
+      .card-text1
+      {
+        color: #0B1118;
+        font-size: 20px;
+        line-height: 28px;
+      }
+      a:link
+      {
+        text-decoration: none;
+      }
+      .arrow{
+            list-style: none;
+        }
+      .text2-decoration
+      {
+        color: black;
+      }
+      .card-text2
+      {
+        padding: 0 50px 0 0;
+      }
+      .pink
+      {
+        position: absolute;
+        width: 1500px;
+        height: 364px;
+        left: 0px;
+        top: 1764px;
+        background-color: #FC0E52;
+      }
+      .text4
+      {
+        padding: 70px 0 0 25px;
+        position: absolute;
+        color: white;
+        font-weight: 700;
+        font-size: 60px;
+        line-height: 60px;
+      }
+      .first
+      {
+        width: 1500px;
+        height: 788px;
+      }  
+      .pink-link
+      {
+        position: static;
+        padding-top: 250px;
+        color: black;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 28px;
+        text-decoration: none;
+        color: white;
+      }
+      .Sahar
+      {
+        color: white;
+        padding-left: 20px;
+      }
+      .site-logo
+      { 
+        margin: 100px 20px;
+        position: absolute;
+        width: 1500px;
+        height: 848px;
+        left: 0px;
+        top: 2128px;
+      }
+      .mid-bottom
+      {
+        
+        padding: 50px 0 0 10px;
+      }
+      .text5
+      {
+        font-weight: 700;
+        font-size: 72px;
+        line-height: 72px;
+      }
+      .img
+      {
+        padding: 20px 20px 20px 20px;
+        float: left;
+        width:  auto;
+        height: auto;
+        object-fit: scale-down;
+      }
+      .Vax
+      {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      margin: 2500px 0px 0 0;
+
+      position: static;
+      width: 1500px;
+      height: auto;
+      left: 720px;
+      top: 0px;
+
+      background: rgba(244, 234, 228, 0.4);
+      }
+      .h2
+      {
+        font-weight: 700;
+        font-size: 72px;
+        line-height: 72px;
 
 
-.Body_Part1 .columnInfo{
-    padding: 60px;
-    background: #FFFFFF;
-    border: none;
-    border-radius: 10px;
-}
-
-
-.Pink_Color_Background{
-    background: #FC0E52;
-    color: #FFFFFF;
-    padding-left: 600px;
-    padding-top: 58px;
-    padding-bottom: 58px;
-    margin-top: -40px;
-}
-.Pink_Color_Background li a{
-    color: #FFFFFF;
-}
-.Pink_Color_Background .info3 li a:hover{
-    color: #FFFFFF;
-}
-
-
-.Body_Part2 img{
-    width: 80%;
-    height: auto;
-}
-
-
-.Body_Part3 img{
-    width: 80%;
-    height: auto;
-}
-
-
-.Body_Part4 img{
-    width: 80%;
-    height: auto;
-}
-
-
-.Last_part{
-    background: #000000;
-    color: #FFFFFF;
-    padding: 100px;
-}
-.Last_part img{
-	border:none; 
-	border-radius: 120px;
-}
-@media screen and (max-width: 700px){
-	h2{
-	font-weight: 500;
-	font-size: 35px;
-	line height: 40px;
-	letter-spacing: -1px;
-	}
-	h4{
-		font-weight: 500;
-		font-size: 35px;
-		line height: 40px;
-		letter-spacing: -.08px;
-	}
-	h3{
-		font-size: 30px;
-	    line-height: 38px;
-	    font-weight: 500;
-	}
-	.Font1{
-	font-size: 25px;
-	}
-	.Font2{
-		font-size: 25px;
-	}
-	.Font3{
-		font-size: 20px;
-	}
-	.Font4{
-		font-size: 25px;
-	}
-	.Header_part .spacing{
-	margin-top: 5px;
-	}
-	.Header_part p{
-		margin-top: 0px;
-	}
-}
+        letter-spacing: -1px;
+      }
+      .paragraph
+      {
+        padding-top: 25px;
+      }
+      .container-more
+      {
+        position: absolute;
+        padding-left: 50px;
+      }
+      .text7
+      {
+        font-weight: 700;
+        font-size: 72px;
+        line-height: 72px;
+      }
+      .nav-link{
+        margin: -2px 0px 1px 30px;
+      }
+      .nav-link2
+      {
+        font-size: 20px;
+        border-radius: 40px;
+        padding: 0px 15px 0px 15px;
+        background-color: #FC0E52;
+        color: white;
+      }
