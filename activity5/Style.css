@@ -5,8 +5,8 @@ body
       .nav-link
       {
         position: relative;
-        font-weight: 300;
-        font-size: 30px;
+        font-weight: 250;
+        font-size: 40px;
         line-height: 28px;
 
         color: #0B1118;
@@ -19,7 +19,7 @@ body
       }
       .nav-link1
       {
-        font-size: 30px;
+        font-size: 40px;
         margin: 3px 0px 0px 30px;
         border-radius: 40px;
         padding: 15px 30px 15px 30px;
@@ -89,13 +89,13 @@ body
       }
       .second-part
       {
-        margin-top: 80px;
+        margin-top: 70px;
       }
       .Med-hjalp
       {
         position: absolute;
         font-weight: bold;
-        font-size: 72px;
+        font-size: 70px;
         letter-spacing: -1px;
         flex: none;
         order: 1;
@@ -118,13 +118,13 @@ body
       .card-title
       {
         position: static;
-        font-size: 48px;
+        font-size: 40px;
         font-weight: bold;
       }
       .card-text1
       {
         color: #0B1118;
-        font-size: 20px;
+        font-size: 30px;
         line-height: 28px;
       }
       a:link
@@ -157,7 +157,7 @@ body
         position: absolute;
         color: white;
         font-weight: 700;
-        font-size: 60px;
+        font-size: 65px;
         line-height: 60px;
       }
       .first
@@ -171,7 +171,7 @@ body
         padding-top: 250px;
         color: black;
         font-weight: 500;
-        font-size: 18px;
+        font-size: 20px;
         line-height: 28px;
         text-decoration: none;
         color: white;
@@ -179,7 +179,7 @@ body
       .Sahar
       {
         color: white;
-        padding-left: 20px;
+        padding-left: 30px;
       }
       .site-logo
       { 
@@ -198,7 +198,7 @@ body
       .text5
       {
         font-weight: 700;
-        font-size: 72px;
+        font-size: 75px;
         line-height: 72px;
       }
       .img
@@ -227,7 +227,7 @@ body
       .h2
       {
         font-weight: 700;
-        font-size: 72px;
+        font-size: 75px;
         line-height: 72px;
 
 
@@ -245,7 +245,7 @@ body
       .text7
       {
         font-weight: 700;
-        font-size: 72px;
+        font-size: 75px;
         line-height: 72px;
       }
       .nav-link{
@@ -253,7 +253,7 @@ body
       }
       .nav-link2
       {
-        font-size: 20px;
+        font-size: 30px;
         border-radius: 40px;
         padding: 0px 15px 0px 15px;
         background-color: #FC0E52;
