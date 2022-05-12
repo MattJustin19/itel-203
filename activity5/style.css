@@ -21,21 +21,21 @@ hr.solid {
 	border-top: 1px solid #FFFFFF;
 }
 h2{
-	font-weight: 800;
+	font-weight: 400;
 	font-size: 80px;
 	line height: 60px;
 	letter-spacing: 2px;
 }
 h4{
-	font-weight: 800;
+	font-weight: 400;
 	font-size: 38px;
 	line height: 38px;
 	letter-spacing: -.08px;
 }
 h3{
-	font-size: 700px;
+	font-size: 200px;
     line-height: 50px;
-    font-weight: 800;
+    font-weight: 500;
 }
 .Font1{
 	font-size: 20px;
